@@ -1,0 +1,9 @@
+---
+Pipeline:
+  Portfolio: 'core'
+  App: 'adconnect'
+  Branch: 'nonprod'
+SharedAccounts:
+  nonprod: 77151437
+  nonprod-auto: 37880647
+  
